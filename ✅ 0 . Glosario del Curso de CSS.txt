@@ -1,0 +1,207 @@
+
+__________________________________________________________________________________
+✅  Glosario del Curso de CSS   Realizado por Danny JImenez  2025
+
+----------------------------------------------------------------------------------
+1.  Conectar         =  ✅
+2.  Selectores       =  ✅
+3.  Box-Model        =  ✅
+4.  Bordes           =  ✅
+5.  Background       =  ✅ 
+6.  Color            =  ✅
+7.  Texto            =  ✅
+8.  Margin           =  ✅
+9.  Padding          =  ✅
+10. Width            =  ✅
+11. Height           =  ✅
+12. Overflow         =  ✅
+13. Display          =  ✅
+14. Outline          =  ✅
+15. Text-Align       =  ✅
+16. Box-Shadow       =  ✅
+17. Position         =  ✅
+18. Font-size        =  ✅
+19. Pseudoclases     =  ✅
+20. Modelo de caja   =  ✅
+21. Medias Queries   =  ✅
+23. Flexbox y Grid   =  ✅
+24. Responsive       =  ✅
+25. Animaciones      =  ✅
+_______________________________________________________________________________________
+
+           
+1. Introducción a CSS     = ✅ 
+
+1.1 - Introducción        = ✅
+1.2 - Historia de CSS     = ✅
+1.3 - Conectar HTML y CSS = ✅
+1.4 - Sintaxis de CSS     = ✅
+1.5 - Variables CSS       = ✅
+1.6 - Unidades de medida  = ✅
+1.7 - Colores             = ✅
+____________________________________________________
+
+
+2. Selectores                                = ✅
+
+2.1  - Estilos del navegador                 = ✅
+2.2  - Selectores                            = ✅
+2.3  - Selectores simples: etiqueta          = ✅
+2.4  - Selectores simples: clases            = ✅
+2.5  - Selectores simples: Id                = ✅
+2.6  - Selectores compuestos: agrupados      = ✅
+2.7  - Selectores compuestos: combinados     = ✅
+2.8  - Selectores compuestos: descendientes  = ✅
+2.9  - Selectores de atributos               = ✅
+2.10 - Selectores con operadores + > ~ *     = ✅
+________________________________________________________
+
+
+3. Box model                          = ✅                  
+
+3.1 - Layout model                    = ✅
+3.2 - Elementos de línea y de bloque  = ✅
+3.3 - Propiedad display               = ✅
+3.4 - Ejercicio: Galería de imágenes  = ✅
+3.5 - Propiedad margin                = ✅
+3.6 - ¿Cómo centrar un div?           = ✅
+3.7 - Propiedad padding               = ✅
+3.8 - Propiedad box-sizing            = ✅
+3.9 - Propiedades lógicas             = ✅
+________________________________________________
+
+4. Bordes y sombras    = ✅
+
+4.1 - El border        = ✅
+4.2 - Border radius    = ✅ 
+4.3 - Outline          = ✅
+4.4 - Box shadow       = ✅
+________________________________________________
+
+5. Background                              = ✅
+
+5.1 - Background color                     = ✅
+5.2 - Background size                      = ✅
+5.3 - Background position                  = ✅
+5.4 - Background clip y Background origin  = ✅
+5.5 - Background attachment                = ✅
+5.6 - Background múltiples                 = ✅
+5.7 - Shortand background                  = ✅
+________________________________________________
+
+6. Color                         = ✅
+
+6.1 - Color Background           = ✅
+6.2 - Color keywords             = ✅
+6.3 - Modo RGB                   = ✅
+6.4 - Notación Hexadecimal       = ✅
+6.5 - Modo HSL                   = ✅
+6.6 - Degradados lineales        = ✅
+6.7 - Degradados radiales        = ✅
+6.8 - Degradados repetidos       = ✅
+6.9 - Ejercicio Ying-Yang        = ✅
+____________________________________________________
+
+7. Texto                        = ✅
+
+7.1 - Text-Align                = ✅
+7.2 - Text-Indent               = ✅
+7.3 - Letter-Spacing            = ✅
+7.4 - Word-Spacing              = ✅
+7.5 - Text-Decoration           = ✅
+7.6 - Text-Transform            = ✅
+7.7 - Text-Shadow               = ✅
+7.8 - White-Space               = ✅
+________________________________________________
+
+8. Margin                       = ✅
+
+8.1 - Margin-top                = ✅
+8.2 - Margin-right              = ✅
+8.3 - Margin-bottom             = ✅
+8.4 - Margin-left               = ✅
+
+
+________________________________________________
+
+9.  Padding          =  ✅
+
+________________________________________________
+
+
+10. Width            =  ✅
+
+________________________________________________
+
+11. Height           =  ✅
+
+________________________________________________
+
+12. Overflow         =  ✅
+
+________________________________________________
+
+
+13. Display                     = ✅
+
+Display: none                   = ✅
+Display : block                 = ✅
+Display : inline                = ✅
+Display: inline-block           = ✅
+
+________________________________________________
+
+14. Outline          =  ✅
+
+________________________________________________
+
+
+15. Text-Align       =  ✅
+
+________________________________________________
+
+16. Box-Shadow       =  ✅
+________________________________________________
+
+17. Position         =  ✅
+
+________________________________________________
+
+
+18. Font-size        =  ✅
+
+________________________________________________
+
+19. Pseudoclases                  = ✅
+ 
+19.1 - ¿Qué son las pseudoclases? = ✅
+19.2 - :hover :active :visited    = ✅
+19.3 - :target :not :empty        = ✅
+19.4 - :first-child :last-child   = ✅
+19.5 - :nth-child :nth-of-type    = ✅
+________________________________________________
+
+
+20. Modelo de caja y posicionamiento            = ✅
+ 
+20.1 Transformaciones y Animaciones             = ✅    
+20.2 Responsive Design y Propiedades Avanzadas  = ✅
+
+
+______________________________________________________
+
+21. Medias Queries   = ✅
+
+________________________________________________
+
+23. Flexbox y Grid   = ✅
+
+________________________________________________
+
+24. Responsive       = ✅
+
+________________________________________________
+
+25. Animaciones      = ✅
+
+________________________________________________________________

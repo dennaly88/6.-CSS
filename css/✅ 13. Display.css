@@ -1,0 +1,98 @@
+/*<!----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NOMBRE    :  DANNY JOSE JIMENEZ GUTIERREZ                                                                                                                   |
+| CEDULA    :  16.029.567                                                                                                                                     |
+| TELEFONO  :  0424-281-44-55                                                                                                                                 |
+| CORREO    :  DENNALY88@GMAIL.COM                                                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  CURSO    : CSS                                                                                                                                             |
+|  DESARROLLADOR WEB                                                                                                                                          |
+|  MIRANDA , CUA  2025                                                                                                                                        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+------------------------------------------------------------------------------------------------------------------------------------------------------------>*/
+
+
+/* display: none */
+
+/*
+
+Este valor oculta completamente el elemento de la página. 
+El elemento no ocupa espacio ni afecta al diseño del documento. 
+Es como si el elemento no existiera para el navegador. 
+A diferencia de visibility: hidden, que solo oculta el elemento 
+pero sigue ocupando su espacio.
+
+*/
+
+
+.oculto {
+  display: none;
+}
+
+
+
+/* display: block */
+
+/*
+
+Los elementos con display: block ocupan toda la anchura disponible y siempre comienzan en una nueva línea. 
+Ejemplos de elementos de bloque son <div>, <p>, y <h1>. Puedes establecer su width, height, margin y padding.
+
+*/
+
+.caja-bloque {
+  display: block;
+  width: 150px;
+  height: 50px;
+  background-color: lightblue;
+  margin: 10px;
+}
+
+
+/* display: inline */
+
+/* 
+Los elementos con display: inline no comienzan en una nueva línea y solo ocupan 
+el espacio necesario para su contenido. No puedes establecer su width ni height. 
+Ejemplos de elementos en línea son <span>, <a> y <em>. El margin-top y margin-bottom no tienen efecto.
+
+*/
+
+.texto-inline {
+  display: inline;
+  background-color: lightgreen;
+  padding: 5px; 
+}
+
+
+
+
+
+/* display: inline-block */
+
+/* Este valor combina las características de los elementos de línea y de bloque.
+    Permite que el elemento se alinee en la misma línea que otros elementos (como 
+    inline), pero a la vez, puedes controlar su width, height y márgenes verticales 
+    (como block). Es muy útil para crear diseños de cuadrícula o alinear elementos como
+     imágenes y botones.
+*/
+
+
+
+.item-inline-block {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: lightsalmon;
+  margin: 5px;
+}
+
+
+
+
+
+
+/*<!----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CARRERA   :  DESARROLLADOR                                                                                                                                  |
+| TITULO    :  INGENIERO EN INFORMATICA                                                                                                                       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------>*/

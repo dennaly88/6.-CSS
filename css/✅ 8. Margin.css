@@ -1,0 +1,67 @@
+/*<!----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NOMBRE    :  DANNY JOSE JIMENEZ GUTIERREZ                                                                                                                   |
+| CEDULA    :  16.029.567                                                                                                                                     |
+| TELEFONO  :  0424-281-44-55                                                                                                                                 |
+| CORREO    :  DENNALY88@GMAIL.COM                                                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  CURSO    : CSS                                                                                                                                             |
+|  DESARROLLADOR WEB                                                                                                                                          |
+|  MIRANDA , CUA  2025                                                                                                                                        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+------------------------------------------------------------------------------------------------------------------------------------------------------------>*/
+
+
+/* Margin-top */
+
+/*  Esta propiedad define el espacio superior de un elemento.
+    Es el espacio que hay entre la parte superior del elemento y 
+    el elemento que está encima de él.  */
+
+.margen-superior {
+  margin-top: 20px;
+}
+
+
+/* Margin-right */
+
+/*  Esta propiedad establece el espacio a la derecha de un elemento. */
+
+.margen-derecho {
+  margin-right: 15px;
+}
+
+
+
+
+/* Margin-bottom */
+
+/* Esta propiedad define el espacio inferior de un elemento.
+  Es el espacio entre la parte inferior del elemento y el elemento 
+  que está debajo.  */
+
+.margen-inferior {
+  margin-bottom: 30px;
+}
+
+
+
+/* Margin-left */
+
+/*  Esta propiedad establece el espacio a la izquierda de un elemento.  */
+
+.margen-izquierdo {
+  margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+/*<!----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CARRERA   :  DESARROLLADOR                                                                                                                                  |
+| TITULO    :  INGENIERO EN INFORMATICA                                                                                                                       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------>*/

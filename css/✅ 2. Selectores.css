@@ -1,0 +1,154 @@
+/*<!---------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NOMBRE    :  DANNY JOSE JIMENEZ GUTIERREZ                                                                                                            |
+| CEDULA    :  16.029.567                                                                                                                              |
+| TELEFONO  :  0424-281-44-55                                                                                                                          |
+| CORREO    :  DENNALY88@GMAIL.COM                                                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  CURSO    : CSS                                                                                                                                      |
+|  DESARROLLADOR WEB                                                                                                                                   |
+|  MIRANDA , CUA  2025                                                                                                                                 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------|
+----------------------------------------------------------------------------------------------------------------------------------------------------->*/
+
+
+/* SELECTORES POR ETIQUETAS */
+
+h1 {
+  color: blue;
+}
+
+
+p {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+}
+
+
+/* SELECTORES POR CLASES */
+
+
+.resaltado {
+  background-color: yellow;
+  font-weight: bold;
+  border: 1px solid orange;
+}
+
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 20px;
+}
+
+
+/* SELECTORES POR ID */
+
+
+#cabecera-principal {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+#pie-de-pagina {
+  background-color: #f4f4f4;
+  border-top: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+
+/* SELECTORES AGRUPADOS */
+
+
+h1, h2, h3 {
+  font-family: 'Helvetica', sans-serif;
+  color: #333;
+}
+
+.btn, .link-secundario, #boton-principal {
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+
+
+/* SELECTORES COMBINADOS */
+
+main p {
+    color: green; 
+}
+
+article > p {
+    font-weight: bold; 
+}
+
+h2 + p {
+    font-style: italic; 
+}
+
+h2 ~ p {
+    text-transform: uppercase; 
+}
+
+
+
+/* SELECTORES DESCENDIENTE */
+
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+.caja-informacion p {
+  font-size: 1.2em;
+  color: darkblue;
+}
+
+
+/* SELECTORES POR ATRIBUTO*/
+
+input[required] {
+  border: 2px solid orange;
+}
+
+input[type="email"] {
+  background-color: lightyellow;
+}
+
+a[href$=".pdf"] {
+  font-weight: bold;
+  color: red;
+}
+
+a[href^="https"] {
+  border-bottom: 2px solid green;
+}
+
+/* Selectores con operadores + > ~ * */
+
+h2 + p {
+  margin-top: 0;
+}
+
+
+ul > li {
+  font-weight: bold;
+}
+
+
+
+/*<!----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CARRERA   :  DESARROLLADOR                                                                                                                                  |
+| TITULO    :  INGENIERO EN INFORMATICA                                                                                                                       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------>*/
+
+
+
+
+
+

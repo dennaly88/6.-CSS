@@ -1,0 +1,122 @@
+/*<!----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NOMBRE    :  DANNY JOSE JIMENEZ GUTIERREZ                                                                                                                   |
+| CEDULA    :  16.029.567                                                                                                                                     |
+| TELEFONO  :  0424-281-44-55                                                                                                                                 |
+| CORREO    :  DENNALY88@GMAIL.COM                                                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  CURSO    : CSS                                                                                                                                             |
+|  DESARROLLADOR WEB                                                                                                                                          |
+|  MIRANDA , CUA  2025                                                                                                                                        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+------------------------------------------------------------------------------------------------------------------------------------------------------------>*/
+
+
+/* Background color */
+
+.caja-color {
+  background-color: #f0f0f0; 
+  padding: 20px;
+}
+
+
+
+/* Background size  */
+
+.caja-size {
+  background-image: url('imagen.jpg');
+  background-size: cover; /* La imagen cubre todo el elemento, pudiendo ser recortada */
+  height: 200px;
+  background-repeat: no-repeat;
+}
+
+.caja-size-2 {
+  background-image: url('imagen.jpg');
+  background-size: 50% 50%; /* La imagen ocupa el 50% del ancho y 50% del alto */
+  height: 200px;
+  background-repeat: no-repeat;
+}
+
+
+
+/* Background position */
+
+caja-position {
+  background-image: url('icono.png');
+  background-position: center center; /* Centra la imagen horizontal y verticalmente */
+  height: 100px;
+  background-repeat: no-repeat;
+}
+
+.caja-position-2 {
+  background-image: url('icono.png');
+  background-position: top 10px right 20px; /* 10px desde arriba y 20px desde la derecha */
+  height: 100px;
+  background-repeat: no-repeat;
+}
+
+
+
+
+/* Background clip y Background origin */ 
+
+.caja-clip-origin {
+  background-image: url('imagen.jpg');
+  background-repeat: no-repeat;
+  background-origin: content-box; /* El origen de la imagen es el borde del contenido */
+  background-clip: content-box; /* La imagen se recorta en el borde del contenido */
+  padding: 20px;
+  border: 10px dashed red;
+}
+
+
+
+/* Background attachment */ 
+
+
+body {
+  background-image: url('paisaje.jpg');
+  background-attachment: fixed; /* El fondo permanece fijo al hacer scroll */
+  background-size: cover;
+}
+
+.caja-attachment {
+  background-image: url('patron.png');
+  background-attachment: scroll; /* El fondo se mueve con el contenido */
+  height: 200px;
+  overflow: auto; /* Permite scroll en esta caja */
+}
+
+
+
+/* Background múltiples */
+
+.caja-multiple {
+  background-image: url('logo.png'), url('patron.png');
+  background-position: top left, center center;
+  background-repeat: no-repeat, repeat;
+  background-size: 50px, auto;
+  padding: 20px;
+}
+
+
+
+/* Shortand background */ 
+
+/* Sintaxis larga */
+.caja-larga {
+  background-color: #f0f0f0;
+  background-image: url('imagen.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Sintaxis shorthand */
+.caja-shorthand {
+  background: #f0f0f0 url('imagen.jpg') no-repeat center;
+}
+
+/*<!----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CARRERA   :  DESARROLLADOR                                                                                                                                  |
+| TITULO    :  INGENIERO EN INFORMATICA                                                                                                                       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------>*/
